@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am Sanath Kumara. I am coding as a hobby 
 
 <!--
 **SanathKumaraEng/SanathKumaraEng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
