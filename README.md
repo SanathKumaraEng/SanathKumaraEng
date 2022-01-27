@@ -3,7 +3,7 @@ I'm Sanath Kumara. I am coding as a hobby
 
 Undergraduate student in University of Ruhuna
 BSc Mechanaical and Manufacturing Eng.
-Interested in image processing and AI
+
 
 <!--
 **SanathKumaraEng/SanathKumaraEng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
