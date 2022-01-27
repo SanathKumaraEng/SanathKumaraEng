@@ -1,9 +1,10 @@
 ### Hi there 👋
 I'm Sanath Kumara. I am coding as a hobby 💖
 
-🎓 Mechanical and Manufacturing Engineering Undergraduate.<br/>
+🎓 Undergraduate student in University of Ruhuna.<br/>
+🎓 Bsc. Mechanical and Manufacturing Engineering <br/>
 😃 Interested in Image processing, AI and data science. <br/>
-
+👨‍🎓 Cureently studying assembly language.
 
 <!--
 **SanathKumaraEng/SanathKumaraEng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
