@@ -1,8 +1,7 @@
 ### Hi there 👋
 I'm Sanath Kumara. I am coding as a hobby 
 
-Mechanical and Manufacturing Engineering Undergraduate
-
+Mechanical and Manufacturing Engineering Undergraduate.
 sdf
 
 <!--
