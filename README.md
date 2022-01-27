@@ -1,8 +1,9 @@
 ### Hi there 👋
-I'm Sanath Kumara. I am coding as a hobby 
+I'm Sanath Kumara. I am coding as a hobby 💖
 
-Mechanical and Manufacturing Engineering Undergraduate.<br/>
-sdf
+🎓 Mechanical and Manufacturing Engineering Undergraduate.<br/>
+😃 Interested in Image processing, AI and data science. <br/>
+
 
 <!--
 **SanathKumaraEng/SanathKumaraEng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
