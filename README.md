@@ -1,8 +1,6 @@
 ### Hi there 👋
 I'm Sanath Kumara. I am coding as a hobby 
 
-Undergraduate student in University of Ruhuna
-BSc Mechanaical and Manufacturing Eng.
 
 
 <!--
